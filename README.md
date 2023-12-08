@@ -1,7 +1,8 @@
-# Diabetic-Retinopathy-Staging-through-Retinal-Imaging
-This project is for my graduate course of CAP 6545: Machine Learning Methods for Biomedical Data
+This project is part of my graduate course CAP 6545: Machine Learning Methods for Biomedical Data. It involves the implementation of a model architecture based on the work of Kumari, P., Saxena, P. in their study [Disease localization and its prediction from retinal fundus images using explicitly designed deep learning architecture](https://doi.org/10.1007/s11042-023-16585-2) published in Multimedia Tools and Applications (2023).
 
-To run the code-
-1. Login to Google Collab and load the .ipynb file
-2. Get your kaggle.json from your Kaggle profile
-3. Run the code on your choice of Hardware accelerator
+Unlike the original study, this project employs a unique preprocessing approach developed through my own research and trial-and-error experiments.
+
+Instructions for Running the Code:
+Log in to Google Colab and upload the .ipynb file.
+Obtain your kaggle.json API token from your Kaggle account (required for dataset access).
+Run the code on your choice of hardware accelerator in Google Colab (e.g., a GPU or TPU).
