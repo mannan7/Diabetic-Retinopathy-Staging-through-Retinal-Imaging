@@ -3,6 +3,6 @@ This project is part of my graduate course CAP 6545: Machine Learning Methods fo
 Unlike the original study, this project employs a unique preprocessing approach developed through my own research and trial-and-error experiments.
 
 Instructions for Running the Code:
-Log in to Google Colab and upload the .ipynb file.
-Obtain your kaggle.json API token from your Kaggle account (required for dataset access).
-Run the code on your choice of hardware accelerator in Google Colab (e.g., a GPU or TPU).
+1. Log in to Google Colab and upload the .ipynb file.
+2. Obtain your kaggle.json API token from your Kaggle account (required for dataset access).
+3. Run the code on your choice of hardware accelerator in Google Colab (e.g., a GPU or TPU).
